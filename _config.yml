@@ -5,8 +5,7 @@ description: Conteúdo do Guichê Virtual
 logo: static/gvlogo.png
 mdl_colors: light_blue-orange
 copyright: Guichê Virtual Serviços de Internet
-search: false 
-menu_style: dropdown
+search: true 
 
 # jekyll setup
 plugins:
