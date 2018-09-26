@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: chromatical/jekyll-materialdocs
+
+#site options
+logo: static/gvlogo.png # an absolute or relative image path to use as the site logo
+mdl_colors: light_blue-orange # a supported Material Design Lite color scheme
+copyright: Guichê Virtual
+search: false # enabled by default, set to false to disable site search
+menu_style: dropdown # will only show child menu items for the main item selected
